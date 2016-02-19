@@ -2,7 +2,7 @@
 Verificare Archive Integrity Checker
 
 VAIC is a program to compare to hashdeep files in an offline mode.
-
+<pre>
 Usage: vaic.exe - Archive Hash Integrity Checker
 version: 0.1
 Main Modes:
@@ -19,3 +19,4 @@ Usage Examples:
  
 vaic.exe -h
 vaic.exe -s=/tmp/source_dir.hash -d=/tmp/destination_dir.hash -a AUDIT 
+</pre>
